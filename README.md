@@ -1,7 +1,7 @@
-# 👨‍💻 Hi, I'm Jotiram Varekar  
+
 <!-- 🌈 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Sagar%20Varekar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Jotiram%20Varekar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 🔥 Typing Animation -->
