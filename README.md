@@ -1,24 +1,78 @@
-# 💫 About Me:
-Im a fresher Im currently looking for job in IT Sector as java developer<br>And I'm looking for the colaborate with the IT sectors people 
+# 👨‍💻 Hi, I'm Jotiram Varekar  
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__sagar__96k) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jotiramvarekar45&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jotiramvarekar45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jotiramvarekar45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jotiramvarekar45&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Fresher;Backend+Learner;Problem+Solver" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jotiramvarekar45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me  
+🚀 Passionate **Java Developer (Fresher)** actively seeking opportunities in IT  
+💻 Skilled in **Core Java, Advanced Java & Web Technologies**  
+🤝 Open to collaboration with developers and tech professionals  
+📈 Always learning and building real-world projects  
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://instagram.com/its__sagar__96k">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,js,spring,mysql,postman,apache" />
+</p>
+
+---
+
+## 🚀 What I'm Working On  
+- 🔭 Building Java-based web applications  
+- 🌱 Learning **Spring Boot & Backend Development**  
+- 🛠 Improving problem-solving skills (DSA)  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jotiramvarekar45&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jotiramvarekar45&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotiramvarekar45&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Developer Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🔝 Top Contributions  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jotiramvarekar45&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=jotiramvarekar45&icon=5&color=6" />
+</p>
+
+---
+
+## ⚡ Fun Fact  
+💡 *I love turning logic into real-world applications using Java!*  
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
